@@ -1,3 +1,4 @@
 .video_agent/
 out/
 .DS_Store
+.idea/
